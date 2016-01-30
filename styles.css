@@ -1,7 +1,8 @@
 .main {
-	margin:0 auto;
+	width:30%;
+	margin-left:auto;
+	margin-right:auto;
 	text-align:center;
-	width:40%;
 }
 
 table, th, td {
@@ -11,5 +12,20 @@ table, th, td {
 }
 
 table {
-	margin-left:30%;
+	margin-left:auto;
+	margin-right:auto;
 }
+
+p{
+	font-family:Georgia;
+}
+
+img {
+	width:300px;
+	height:300px;
+	border-width:2px;
+	border-style:solid;
+	border-color:blue;
+	border-radius:100%;
+}
+
