@@ -1,0 +1,15 @@
+.main {
+	margin:0 auto;
+	text-align:center;
+	width:40%;
+}
+
+table, th, td {
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
+}
+
+table {
+	margin-left:30%;
+}
