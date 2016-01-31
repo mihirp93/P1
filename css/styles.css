@@ -1,0 +1,65 @@
+.main {
+	width:30%;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+table, th, td {
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
+}
+
+table {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img {
+	width:300px;
+	height:300px;
+	border-width:2px;
+	border-style:solid;
+	border-color:blue;
+	border-radius:100%;
+	margin:20px;
+}
+
+.name_tag {
+	margin-top:50px;
+	margin-bottom:20px;
+	background-color:blue;
+	color:white;
+	text-align:center;
+	font-size:20px;
+	border-width:2px;
+	height:280px;
+	border-radius:10px;
+	-webkit-transform:rotate(10deg); /* Safari and Chrome */
+    -moz-transform:rotate(10deg);   /* Firefox */
+    -ms-transform:rotate(10deg);   /* IE 9 */
+    -o-transform:rotate(10deg);   /* Opera */
+	transform:rotate(10deg);
+}
+
+.top_tag {
+	height:80px;
+	font-size:30px;
+	font-family:Georgia;
+	padding-top:10px;
+}
+
+.name_display {
+	background-color:white;
+	color:blue;
+	font-size:60px;
+	height:140px;
+    font-family:Cursive;
+	padding-top:40px;
+}
+
+
+
+
+
