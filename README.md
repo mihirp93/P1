@@ -8,7 +8,7 @@ A static webpage that will display my name and photo.
 It will also present all of the projects that I will complete for DWA15(CSCI E-15 : Dynamic Web Applications).
 
 ## Demo
-<coming soon>
+<http://www.screencast.com/t/ZxjvZ98bfNWo>
 
 ## Details for teaching team
 No login required.
